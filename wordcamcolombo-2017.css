@@ -1,3 +1,59 @@
 /**
 * Main Style
 **/
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.site-header {
+	background-image: url('https://2017.colombo.wordcamp.org/files/2017/02/cropped-wordcamp-colombo_cover-image1-1.png');
+	background-size: cover;
+	min-height: 600px;
+	background-position: center;
+	position: relative;
+}
+
+.home .site-header {
+	height: 80vh;
+	margin-bottom: 3em;
+}
+
+.site-inner {
+	max-width: none;
+}
+
+.site-branding {
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+}
+
+#masthead  .site-title a {
+	color: #4d545c !important;
+	text-shadow: 2px 2px 0 #eeeeee;
+	font-size: 1.4em;
+}
+
+.site-description {
+	font-size: 1.4em;
+	font-weight: 600;
+	text-shadow: rgba(0,0,0,0.3980392) 0 2px 4px;
+}
+
+#site-header-menu {
+	position: fixed;
+	top: 0;
+	z-index: 99;
+	left: 0;
+	padding: 21px;
+	margin-top: 32px;
+	margin-bottom: 0;
+	width: 100%;
+}
+
+#site-navigation {
+	margin: 0;
+	padding: 10px;
+	background: #22bdd4;
+}
