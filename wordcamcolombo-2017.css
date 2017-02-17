@@ -78,8 +78,8 @@ color: #fbdf2b;
 /*Mobile View */
 
 @media screen and (min-width: 44.375em){
-	#site-navigation .menu-main-container ul{
-		width: 100%;
+	.main-navigation ul{
+		width: 100% !important;
 	}
 	
 }
