@@ -2,9 +2,6 @@
 * Main Style
 **/
 /*
-You can add your own CSS here.
-
-Click the help icon above to learn more.
 */
 .site-header {
 	background-image: url('https://2017.colombo.wordcamp.org/files/2017/02/cropped-wordcamp-colombo_cover-image1-1.png');
@@ -41,6 +38,8 @@ Click the help icon above to learn more.
 	text-shadow: rgba(0,0,0,0.3980392) 0 2px 4px;
 }
 
+/*Navigation*/
+
 #site-header-menu {
 	position: fixed;
 	top: 0;
@@ -57,3 +56,10 @@ Click the help icon above to learn more.
 	padding: 10px;
 	background: #22bdd4;
 }
+
+#site-navigation .menu-main-container {
+	-webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    display: flex;
+}
+
