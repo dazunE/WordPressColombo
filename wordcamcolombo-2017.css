@@ -9,6 +9,7 @@
 	min-height: 600px;
 	background-position: center;
 	position: relative;
+	background-color: #25bed5
 }
 
 .home .site-header {
@@ -65,4 +66,18 @@
 
 #site-navigation .menu-main-container #menu-main li a:hover {
 color: #fbdf2b;
+}
+
+/*Mobile View */
+
+@media screen and (min-width: 44.375em){
+	#site-navigation .menu-main-container ul{
+		width: 100%;
+	}
+	#menu-toggle{
+	position: fixed;
+    top: 45px;
+    background: #fbde2a;
+    color: #2098a8;
+	}
 }
