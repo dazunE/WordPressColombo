@@ -10,11 +10,12 @@
 	background-position: center;
 	position: relative;
 	background-color: #25bed5
+	margin-bottom: 3em;
 }
 
 .home .site-header {
 	height: 80vh;
-	margin-bottom: 3em;
+	
 }
 
 .site-inner {
