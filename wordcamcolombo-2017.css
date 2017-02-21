@@ -1538,41 +1538,10 @@ select[name=tix_payment_method] {
 
 .home #masthead hgroup {
 	height: 100%;
-	background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-mobile.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery-mobile.png') center bottom repeat-x fixed #eef2f2;
-	background-size: auto, auto;
+	background: url('https://2017.colombo.wordcamp.org/files/2017/02/cropped-wordcamp-colombo_cover-image1-1.png');
+	background-size: cover;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx) {
-	.home #masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-mobile@2x.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery-mobile@2x.png') center bottom repeat-x fixed #eef2f2;
-		background-size: 640px 560px, 640px 560px;
-	}
-}
-
-@media only screen and (max-width:720px) and (orientation:landscape),only screen and (max-width:720px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2),only screen and (max-width:720px) and (orientation:landscape) and (min-resolution:192dpi),only screen and (max-width:720px) and (orientation:landscape) and (min-resolution:2dppx) {
-	.home #masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery@2x.png') center 100% repeat-x fixed #eef2f2;
-		background-size: 1183px 271px;
-	}
-}
-
-@media screen and (min-width:600px) {
-	#masthead {
-		padding-top: 60px;
-	}
-	
-	.home #masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery.png') center bottom repeat-x fixed #eef2f2;
-		background-size: auto, auto;
-	}
-}
-
-@media only screen and (min-width:600px) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:600px) and (min-resolution:192dpi),only screen and (min-width:600px) and (min-resolution:2dppx) {
-	.home #masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration@2x.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery@2x.png') center bottom repeat-x fixed #eef2f2;
-		background-size: 1183px 560px, 1183px 560px;
-	}
-}
 
 .admin-bar.home #masthead {
 	height: calc(100% - 32px);
