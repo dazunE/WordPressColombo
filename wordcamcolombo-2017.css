@@ -1538,13 +1538,13 @@ select[name=tix_payment_method] {
 
 .home #masthead hgroup {
 	height: 100%;
-	background: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png') center bottom no-repeat;
+	background: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png') center no-repeat;
 	background-size: cover;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx) {
 	.home #masthead hgroup {
-		background: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png') center bottom no-repeat;
+		background: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png') center no-repeat;
 		background-size: cover;
 	}
 }
@@ -1562,14 +1562,14 @@ select[name=tix_payment_method] {
 	}
 	
 	.home #masthead hgroup {
-		background: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png') center bottom no-repeat;
+		background: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png') center no-repeat;
 		background-size: cover;
 	}
 }
 
 @media only screen and (min-width:600px) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:600px) and (min-resolution:192dpi),only screen and (min-width:600px) and (min-resolution:2dppx) {
 	.home #masthead hgroup {
-		background: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png') center bottom no-repeat;
+		background: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png') center no-repeat;
 		background-size: cover;
 	}
 }
@@ -1619,7 +1619,7 @@ select[name=tix_payment_method] {
 	height: 100px;
 	margin-left: -61px;
 	content: '';
-	background-image: url('https://europe.wordcamp.org/2016/files/2015/12/logo-wceu-2016.png');
+	background-image: url('https://2017.colombo.wordcamp.org/files/2017/02/cropped-logo.png');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
