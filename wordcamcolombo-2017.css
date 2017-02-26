@@ -20,4 +20,16 @@
 	#masthead .wrap {
 		display: table-cell;
 		vertical-align: middle;
+		text-align: center;
+		font-family: 'Amaranth', sans-serif;
+	}
+
+	#masthead .wrap .custom-logo-link img {
+		display: block;
+		max-height: 150px;
+	}
+
+	.custom-header-media{
+		background-image: url('https://2017.colombo.wordcamp.org/files/2017/02/background.png');
+		background-size:cover;
 	}
