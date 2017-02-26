@@ -1950,7 +1950,7 @@ select[name=tix_payment_method] {
 }
 
 .main-navigation,.main-small-navigation {
-	background: #75baac;
+	background: #1ebbd2;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -2130,7 +2130,7 @@ select[name=tix_payment_method] {
 
 .main-navigation .current-menu-ancestor>a,.main-navigation .current-menu-item>a,.main-navigation .current_page_ancestor>a,.main-navigation .current_page_item>a {
 	color: #fff;
-	background-color: #2f3436;
+	background-color: #1ebbd2;
 }
 
 @media screen and (min-width:600px) {
