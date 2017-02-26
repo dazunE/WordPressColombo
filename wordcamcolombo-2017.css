@@ -1615,8 +1615,8 @@ select[name=tix_payment_method] {
 	position: absolute;
 	bottom: 40px;
 	left: 50%;
-	width: 122px;
-	height: 100px;
+	width: 150px;
+	height: 156px;
 	margin-left: -61px;
 	content: '';
 	background-image: url('https://2017.colombo.wordcamp.org/files/2017/02/cropped-logo.png');
@@ -1644,8 +1644,8 @@ select[name=tix_payment_method] {
 		top: -20px;
 		bottom: auto;
 		left: 0;
-		width: 132px;
-		height: 108px;
+		width: 150px;
+		height: 156px;
 		margin-left: -66px;
 	}
 }
@@ -1689,8 +1689,8 @@ select[name=tix_payment_method] {
 	.home .site-title a:before {
 		top: -150px;
 		left: 50%;
-		width: 153px;
-		height: 125px;
+		width: 150px;
+		height: 156px;
 		margin-left: -76px;
 	}
 	
