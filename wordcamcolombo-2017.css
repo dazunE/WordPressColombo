@@ -328,7 +328,7 @@ input[type=submit]:hover {
 #subscribe-email input,input[type=email],input[type=text],input[type=url] {
 	width: 100%;
 	padding: .5em;
-	border: 1px solid #2f3436;
+	border: 1px solid #fbab1a;
 	border-radius: 5px;
 }
 
@@ -356,7 +356,7 @@ textarea {
 	width: 100%;
 	height: 7em;
 	padding: .5em;
-	border: 1px solid #2f3436;
+	border: 1px solid #fbab1a;
 	border-radius: 5px;
 }
 
@@ -406,7 +406,7 @@ hr {
 body {
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 #tix-attendees .tix-attendee-name,.comment-author,.main-navigation,.main-small-navigation,h1,h2,h3,h4,h5,h6 {
@@ -903,7 +903,7 @@ a img.aligncenter {
 }
 
 .post .entry-meta a:hover {
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 .post .entry-header {
@@ -1392,11 +1392,11 @@ body.admin-bar #tix {
 }
 
 .tggr-author-name {
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 .tggr-media-item {
-	border-color: #2f3436;
+	border-color: #fbab1a;
 }
 
 .tggr-author-username {
@@ -1529,7 +1529,7 @@ select[name=tix_payment_method] {
 }
 
 .home,.home #masthead,.home #page {
-	height: 90%;
+	height: 100%;
 }
 
 .home #masthead {
@@ -1575,7 +1575,7 @@ select[name=tix_payment_method] {
 }
 
 .admin-bar.home #masthead {
-	height: calc(90% - 32px);
+	height: calc(100% - 32px);
 }
 
 @media screen and (max-width:782px) {
@@ -1587,7 +1587,7 @@ select[name=tix_payment_method] {
 .site-header hgroup {
 	padding-top: 140px;
 	text-align: center;
-	border-bottom: 2px solid #2f3436;
+	border-bottom: 2px solid #fbab1a;
 }
 
 @media screen and (min-width:600px) {
@@ -1655,7 +1655,7 @@ select[name=tix_payment_method] {
 	font-weight: 300;
 	line-height: 26px;
 	margin: 0;
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 .home .site-header hgroup {
@@ -1933,7 +1933,7 @@ select[name=tix_payment_method] {
 }
 
 #after-header-widgets .widget_nav_menu .menu li.current-menu-item a {
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 .home .main-navigation,.home .main-small-navigation {
@@ -1967,12 +1967,12 @@ select[name=tix_payment_method] {
 }
 
 .main-navigation a:focus,.main-navigation a:hover,.main-small-navigation a:focus,.main-small-navigation a:hover {
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 .main-navigation .current-menu-item>a,.main-navigation .current_page_item>a,.main-small-navigation .current-menu-item>a,.main-small-navigation .current_page_item>a {
 	color: #fff;
-	background-color: #2f3436;
+	background-color: #fbab1a;
 }
 
 .main-small-navigation .menu-toggle {
@@ -2024,7 +2024,7 @@ select[name=tix_payment_method] {
 
 .main-navigation {
 	height: 62px;
-	border-top: 2px solid #2f3436;
+	border-top: 2px solid #fbab1a;
 }
 
 .main-navigation .assistive-text {
@@ -2090,7 +2090,7 @@ select[name=tix_payment_method] {
 }
 
 .main-navigation .menu>li .sub-menu a {
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 .main-navigation .menu>li .sub-menu a:hover {
@@ -2125,12 +2125,12 @@ select[name=tix_payment_method] {
 }
 
 .main-navigation a:focus,.main-navigation a:hover {
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 .main-navigation .current-menu-ancestor>a,.main-navigation .current-menu-item>a,.main-navigation .current_page_ancestor>a,.main-navigation .current_page_item>a {
 	color: #fff;
-	background-color: #2f3436;
+	background-color: #fbab1a;
 }
 
 @media screen and (min-width:600px) {
@@ -2156,7 +2156,7 @@ select[name=tix_payment_method] {
 		display: table;
 		table-layout: fixed;
 		border-radius: 0;
-		background-color: #2f3436;
+		background-color: #fbab1a;
 	}
 	
 	.menu li.fixed-menu .sub-menu .menu-item {
@@ -2563,7 +2563,7 @@ select[name=tix_payment_method] {
 
 .wcpt-session-speakers a {
 	font-style: italic;
-	color: #2f3436;
+	color: #fbab1a;
 }
 
 .wcpt-session-speakers a:hover {
@@ -2601,7 +2601,7 @@ select[name=tix_payment_method] {
 		font-weight: 700;
 		margin: 0;
 		padding: 10px;
-		color: #2f3436;
+		color: #fbab1a;
 		border: none;
 		background: #eef2f2;
 	}
