@@ -2094,12 +2094,12 @@ select[name=tix_payment_method] {
 }
 
 .main-navigation .menu>li .sub-menu a:hover {
-	color: #75baac;
+	color: #FFF;
 }
 
 .main-navigation .menu>li .sub-menu .current-menu-item>a,.main-navigation .menu>li .sub-menu .current_page_item>a {
 	color: #fff;
-	background: #75baac;
+	background: #fbab1a;
 }
 
 .main-navigation .menu>li:hover .sub-menu {
