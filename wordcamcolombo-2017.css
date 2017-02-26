@@ -17,8 +17,7 @@
 		height: 100%;
 	}
 
-	.twentyseventeen-front-page.has-header-image .site-branding #masthead .wrap,
-	.twentyseventeen-front-page.has-header-video .site-branding #masthead .wrap {
+	#masthead .wrap {
 		display: table-cell;
 		vertical-align: middle;
 	}
