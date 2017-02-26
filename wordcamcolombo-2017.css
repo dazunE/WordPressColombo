@@ -246,7 +246,7 @@ fieldset {
 
 a,a:visited {
 	text-decoration: none;
-	color: #c33;
+	color: #0d8590;
 }
 
 a:active,a:hover,a:visited:hover {
@@ -1504,27 +1504,27 @@ select[name=tix_payment_method] {
 
 #masthead hgroup {
 	height: 260px;
-	background: url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery.png') center 30px repeat-x #eef2f2;
+	background: url('https://2017.colombo.wordcamp.org/files/2017/02/bg.png') center 30px repeat-x #eef2f2;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx) {
 	#masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery@2x.png') center 30px repeat-x #eef2f2;
-		background-size: 1183px 271px;
+		background: url('https://2017.colombo.wordcamp.org/files/2017/02/bg.png') center 30px repeat-x #eef2f2;
+		background-size: cover;
 	}
 }
 
 @media screen and (min-width:960px) {
 	#masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-mobile.png') right bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery.png') center 100px repeat-x fixed #eef2f2;
-		background-size: auto, auto;
+		background: url(https://2017.colombo.wordcamp.org/files/2017/02/bg.png);
+    	background-size: auto, auto
 	}
 }
 
 @media only screen and (min-width:960px) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:960px) and (min-resolution:192dpi),only screen and (min-width:960px) and (min-resolution:2dppx) {
 	#masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-mobile@2x.png') right bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery@2x.png') left 100px repeat-x fixed #eef2f2;
-		background-size: 640px 560px, 1183px 271px;
+		background: url('https://2017.colombo.wordcamp.org/files/2017/02/bg.png') left 100px repeat-x fixed #eef2f2;
+		background-size: cover;
 	}
 }
 
@@ -2130,7 +2130,7 @@ select[name=tix_payment_method] {
 
 .main-navigation .current-menu-ancestor>a,.main-navigation .current-menu-item>a,.main-navigation .current_page_ancestor>a,.main-navigation .current_page_item>a {
 	color: #fff;
-	background-color: #1ebbd2;
+	background-color: #fbab1a;
 }
 
 @media screen and (min-width:600px) {
@@ -2156,7 +2156,7 @@ select[name=tix_payment_method] {
 		display: table;
 		table-layout: fixed;
 		border-radius: 0;
-		background-color: #2f3436;
+		background-color: rgba(30, 189, 212, 0.85);
 	}
 	
 	.menu li.fixed-menu .sub-menu .menu-item {
@@ -2473,35 +2473,21 @@ select[name=tix_payment_method] {
 .site-info .site-info-network {
 	position: relative;
 	display: block;
-	width: 60px;
-	height: 60px;
+	width: 180px;
+	height: 300px;
 	margin: 0 auto 2.85714%;
 	text-indent: -99999px;
-	color: #fff;
-	border-radius: 50%;
-	background-color: #c33;
-	background-image: url('https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png');
+	background-image: url('https://2017.colombo.wordcamp.org/files/2017/02/wapuu_final.png');
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 40px;
+	background-size: 100%;
 }
 
 .site-info .site-info-network:after {
-	position: absolute;
-	z-index: -1;
-	left: 50%;
-	display: block;
-	width: 30px;
-	height: 100px;
-	margin-bottom: -30px;
-	margin-left: -15px;
-	content: '';
-	background: #c33;
+
 }
 
-.site-info .site-info-network:hover,.site-info .site-info-network:hover:after {
-	background-color: #75baac;
-}
+
 
 .wcpt-schedule {
 	table-layout: fixed;
