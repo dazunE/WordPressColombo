@@ -2168,7 +2168,7 @@ select[name=tix_payment_method] {
 	}
 	
 	.menu li.fixed-menu .sub-menu a:hover {
-		color: #75baac;
+		color: #FFF;
 	}
 	
 	.menu li.fixed-menu .sub-menu li:last-child a {
