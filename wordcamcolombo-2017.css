@@ -410,7 +410,8 @@ body {
 }
 
 #tix-attendees .tix-attendee-name,.comment-author,.main-navigation,.main-small-navigation,h1,h2,h3,h4,h5,h6 {
-	font-family: Lato, sans-serif;
+	font-family: 'Amaranth', sans-serif;
+	
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -1354,15 +1355,13 @@ body.admin-bar #tix {
 }
 
 .single-wcb_sponsor #main .entry-title {
-	position: relative;
-	top: -250px;
-	text-align: center;
+	position: relative;	
+        text-align: center;
 }
 
 .single-wcb_sponsor #main .wp-post-image {
-	position: relative;
-	top: 90px;
-	margin-right: auto;
+	position: relative;	
+        margin-right: auto;
 	margin-left: auto;
 }
 
@@ -1502,28 +1501,8 @@ select[name=tix_payment_method] {
 
 #masthead hgroup {
 	height: 260px;
-	background: url('https://2017.colombo.wordcamp.org/files/2017/02/bg.png') center 30px repeat-x #eef2f2;
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx) {
-	#masthead hgroup {
-		background: url('https://2017.colombo.wordcamp.org/files/2017/02/bg.png') center 30px repeat-x #eef2f2;
-		background-size: cover;
-	}
-}
-
-@media screen and (min-width:960px) {
-	#masthead hgroup {
-		background: url(https://2017.colombo.wordcamp.org/files/2017/02/bg.png);
-    	background-size: auto, auto
-	}
-}
-
-@media only screen and (min-width:960px) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:960px) and (min-resolution:192dpi),only screen and (min-width:960px) and (min-resolution:2dppx) {
-	#masthead hgroup {
-		background: url('https://2017.colombo.wordcamp.org/files/2017/02/bg.png') left 100px repeat-x fixed #eef2f2;
-		background-size: cover;
-	}
+	background: url('https://2017.colombo.wordcamp.org/files/2017/02/bg.png');
+	background-size: cover;
 }
 
 .home,.home #masthead,.home #page {
@@ -1635,11 +1614,11 @@ select[name=tix_payment_method] {
 	}
 	
 	.site-title a {
-		padding-left: 80px;
+		padding-left: 110px;
 	}
 	
 	.site-title a:before {
-		top: -20px;
+		top: -45px;
 		bottom: auto;
 		left: 0;
 		width: 150px;
@@ -1672,7 +1651,7 @@ select[name=tix_payment_method] {
 	.site-description {
 		font-size: 20px;
 		line-height: 30px;
-		padding-left: 80px;
+		padding-left: 110px;
 	}
 	
 	.home .site-header hgroup {
