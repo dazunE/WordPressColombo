@@ -1014,6 +1014,10 @@ body.page img:hover {
 	margin-bottom: 8.57143%;
 }
 
+.wcorg-organizer-description{
+	display:none;
+}
+
 @media screen and (min-width:720px) {
 	.archive .post .wp-caption .wp-caption-text,.blog .post .wp-caption .wp-caption-text,.search-results .post .wp-caption .wp-caption-text {
 		bottom: -20px;
