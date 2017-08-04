@@ -2270,7 +2270,7 @@ select[name=tix_payment_method] {
 }
 
 @media screen and (min-width:480px) {
-	.wcb_widget_sponsors .sponsor-level.administrator .sponsor-logo,.wcb_widget_sponsors .sponsor-level.after-party .sponsor-logo,.wcb_widget_sponsors .sponsor-level.super-admin .sponsor-logo {
+	.wcb_widget_sponsors .sponsor-level.gold .sponsor-logo,.wcb_widget_sponsors .sponsor-level.after-party .sponsor-logo,.wcb_widget_sponsors .sponsor-level.super-admin .sponsor-logo {
 		float: left;
 		width: 30.55556%;
 		margin-right: 1.38889%;
@@ -2282,7 +2282,7 @@ select[name=tix_payment_method] {
 	}
 }
 
-.wcb_widget_sponsors .sponsor-level.author .sponsor-logo,.wcb_widget_sponsors .sponsor-level.editor .sponsor-logo {
+.wcb_widget_sponsors .sponsor-level.silver .sponsor-logo,.wcb_widget_sponsors .sponsor-level.silver .sponsor-logo {
 	float: left;
 	width: 47.22222%;
 	margin-right: 1.38889%;
@@ -2290,7 +2290,7 @@ select[name=tix_payment_method] {
 }
 
 @media screen and (min-width:480px) {
-	.wcb_widget_sponsors .sponsor-level.author .sponsor-logo,.wcb_widget_sponsors .sponsor-level.editor .sponsor-logo {
+	.wcb_widget_sponsors .sponsor-level.silver .sponsor-logo,.wcb_widget_sponsors .sponsor-level.silver .sponsor-logo {
 		float: left;
 		width: 22.22222%;
 		margin-right: 1.38889%;
@@ -2298,7 +2298,7 @@ select[name=tix_payment_method] {
 	}
 }
 
-.wcb_widget_sponsors .sponsor-level.small-business .sponsor-logo,.wcb_widget_sponsors .sponsor-level.subscriber .sponsor-logo {
+.wcb_widget_sponsors .sponsor-level.bronze .sponsor-logo,.wcb_widget_sponsors .sponsor-level.bronze .sponsor-logo {
 	float: left;
 	width: 30.55556%;
 	margin-right: 1.38889%;
@@ -2306,7 +2306,7 @@ select[name=tix_payment_method] {
 }
 
 @media screen and (min-width:480px) {
-	.wcb_widget_sponsors .sponsor-level.small-business .sponsor-logo,.wcb_widget_sponsors .sponsor-level.subscriber .sponsor-logo {
+	.wcb_widget_sponsors .sponsor-level.bronze .sponsor-logo,.wcb_widget_sponsors .sponsor-level.bronze .sponsor-logo {
 		float: left;
 		width: 13.88889%;
 		margin-right: 1.38889%;
