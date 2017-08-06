@@ -1043,6 +1043,15 @@ body.page img:hover {
     }
 }
 
+.wcorg-organizer-description p{
+    display: none;
+}
+
+#menu-item-939 a {
+
+    background: #cc3333;
+}
+
 .wcorg-organizer h2,.wcorg-speaker h2 {
     position: relative;
     top: 120px;
