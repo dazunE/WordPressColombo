@@ -4559,6 +4559,11 @@ select[name=tix_payment_method] {
         border-radius: 50%;
         background: #75baac;
     }
+    
+    .site-title a:before{
+        top:auto;
+        left:48%;
+    }
 
     #after-header-widgets .widget_nav_menu .menu li:first-child:after {
         display: none;
