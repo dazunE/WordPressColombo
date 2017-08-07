@@ -4560,14 +4560,7 @@ select[name=tix_payment_method] {
         background: #75baac;
     }
     
-    .site-title a:before{
-        top:auto !important;
-        left:48% !important;
-    }
-    
-    .site-title{
-        margin-top:120px;
-    }
+
 
     #after-header-widgets .widget_nav_menu .menu li:first-child:after {
         display: none;
