@@ -4561,8 +4561,12 @@ select[name=tix_payment_method] {
     }
     
     .site-title a:before{
-        top:auto;
-        left:48%;
+        top:auto !important;
+        left:48% !important;
+    }
+    
+    .site-title{
+        margin-top:120px;
     }
 
     #after-header-widgets .widget_nav_menu .menu li:first-child:after {
