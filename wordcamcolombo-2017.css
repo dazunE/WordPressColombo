@@ -4688,7 +4688,7 @@ select[name=tix_payment_method] {
 .main-navigation .menu {
     font-size: 18px;
     line-height: 26px;
-    display: table-row;
+    display: table;
     width: 100%;
     margin: 0;
     padding: 0;
